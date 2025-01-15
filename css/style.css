@@ -1,0 +1,77 @@
+body{
+	font-family: Arial;
+}
+
+.box{
+	height: 100px;
+}
+
+.red{
+	background-color: red;
+}
+
+.black{
+	background-color: black;
+	color: white;
+}
+
+.container{
+overflow: hidden;
+}
+
+.blog{
+float: left;
+width: 60%;
+height: 500px;
+background-color: lightgray;
+}
+
+.contact{
+float: right;
+width: 40%;
+height: 500px;
+background-color: lightblue;
+}
+
+.i{
+float: left;
+width: 33.33%;
+height: 105px;
+}
+
+.i2{
+float: left;
+width: 50%;
+height: 105px;	
+}
+
+.aqua{
+background-color: aqua;
+}
+
+.tomato{
+background-color: tomato;
+}
+
+.teal{
+background-color: teal;
+}
+
+.gray{
+background-color: gray;
+}
+
+.lightcoral{
+	background-color: lightcoral;
+}
+
+.align{
+	text-align: center;
+}
+
+.padding{
+	padding: 30px;
+}
+
+
+
